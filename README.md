@@ -11,8 +11,7 @@ Objectives:
 To predict the customers who are most likely to buy the Health Insurance.
 
 How to achieve the objectives:
+1)Identifying target variables and using them for prediction.
 
-Identifying target variables and using them for prediction.
-
-Applying Generalized Linear Model and Stepwise Regression for predictive modeling.
+2)Applying Generalized Linear Model and Stepwise Regression for predictive modeling.
 
